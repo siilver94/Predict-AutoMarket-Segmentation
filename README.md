@@ -49,7 +49,9 @@ src=https://github.com/siilver94/Predict-AutoMarket-Segmentation/assets/57824945
 ## 사용 기술
 
 **데이터 전처리:** `get_dummies`
+
 **모델링:** `RandomForestClassifier`
+
 **튜닝:** `GridSearchCV`
 
 
@@ -70,7 +72,7 @@ src=https://github.com/siilver94/Predict-AutoMarket-Segmentation/assets/57824945
 
 <br/>
 
----
+
 
 ## 리뷰
 
